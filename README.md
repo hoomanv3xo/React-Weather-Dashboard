@@ -3,7 +3,7 @@
 A simple weather app built with React and Vite. Search for any city or use your current location to see current conditions, a 24-hour temperature chart, and a 7-day forecast. No API keys required.
 
  [Screenshot of the chatbot](weather1.png) 
-<!-- ![Screenshot of the chatbot](weather2.png) -->
+ [Screenshot of the chatbot](weather2.png)
 ## Features
 
 - Search any city by name
