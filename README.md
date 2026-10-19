@@ -1,4 +1,4 @@
-# Weather Dashboard
+# Weather Dashboard   **Live demo:** https://hooman-weather.vercel.app
 
 A simple weather app built with React and Vite. Search for any city or use your current location to see current conditions, a 24-hour temperature chart, and a 7-day forecast. No API keys required.
 
@@ -117,3 +117,4 @@ Weather data by [Open-Meteo.com](https://open-meteo.com/) (licensed under [CC BY
 ## License
 
 MIT
+
